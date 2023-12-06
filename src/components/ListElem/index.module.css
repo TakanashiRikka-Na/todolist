@@ -1,0 +1,31 @@
+.back {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-bottom: 1px solid #ccc;
+}
+
+.data {
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+.ctrlBar {
+    display: flex;
+    align-items: center;
+}
+
+.flag,
+.change,
+.id {
+    margin-left: 15px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.delete {
+    cursor: pointer;
+}

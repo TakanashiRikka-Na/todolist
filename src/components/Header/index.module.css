@@ -1,0 +1,9 @@
+.x {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-bottom: 1px solid #ccc;
+}
